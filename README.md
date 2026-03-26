@@ -1,38 +1,120 @@
-<h2 title="hehehe"> Hey 👋, I'm Juan Pablo!</h2>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=6000&pause=1000&color=2AA889&center=true&vCenter=true&width=600&lines=Hola%2C+soy+Juan+Pablo+Velozo+👋;Ingeniero+en+Informática;Desarrollador+Full+Stack;Experiencia+en+soporte+y+entornos+productivos;Siempre+aprendiendo+nuevas+tecnologías" />
+</p>
 
-<a href="https://www.linkedin.com/in/juan-pablo-andrés-velozo-velozo-06546117a/">
-  <img align="left" alt="Juan Pablo LinkedIn" width="24px" src="https://img.icons8.com/nolan/96/linkedin.png" />
+---
+
+## 👨‍💻 Sobre mí
+
+💡 Ingeniero en Informática con experiencia en desarrollo web y soporte técnico en entornos productivos.
+🚀 Trabajo con tecnologías frontend y backend, integrando soluciones eficientes y escalables.
+🔧 Experiencia en resolución de incidencias, mantenimiento de sistemas y trabajo bajo metodologías ágiles.
+🌍 Actualmente abierto a oportunidades como desarrollador de software.
+
+---
+
+## 📬 Contacto
+
+<p align="center">
+<a href="https://www.linkedin.com/in/juan-pablo-andrés-velozo-velozo-06546117a/" target="blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
 </a>
-<a href="mailto:jpvelozo219@gmail.com">
-  <img align="left" alt="Email" width="24px" src="https://img.icons8.com/nolan/96/new-post.png" />
+<a href="mailto:jpvelozo219@gmail.com" target="blank">
+  <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" height="30" width="30" />
 </a>
-<a href="https://github.com/JuanPabloVelozo">
-  <img align="left" alt="Juan Pablo GitHub" width="24px" src="https://img.icons8.com/nolan/96/github.png" />
+<a href="https://github.com/JuanPabloVelozo" target="blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" width="40" />
 </a>
+</p>
 
-<br />
-<br />
+---
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" />
+## 🛠️ Tecnologías y Herramientas
 
-**About Me!**
+### 💻 Lenguajes
 
-* 👨🏽‍💻 I’m a Computer Science Engineer from Chile 🇨🇱
-* 💻 I have experience developing web applications in production environments
-* ⚙️ I work with Python, JavaScript and PHP
-* 🔧 I have worked with Django, Laravel, React and Vue
-* ☁️ I have knowledge in Azure and cloud services
-* 🐛 I enjoy fixing bugs and improving real systems
-* 💬 Ask me about development, backend or web apps!
-* 📫 Email me at [jpvelozo219@gmail.com](mailto:jpvelozo219@gmail.com)
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40"/>
+</p>
 
-**Languages and Tools:**
+### ⚙️ Frameworks y Librerías
 
-<code><img height="20" src="https://img.icons8.com/nolan/96/python.png"></code> Python <code><img height="20" src="https://img.icons8.com/nolan/96/javascript.png"></code> JavaScript
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40"/>
+</p>
 
-<code><img height="20" src="https://img.icons8.com/nolan/96/php.png"></code> PHP <code><img height="20" src="https://img.icons8.com/nolan/96/java-coffee-cup-logo.png"></code> Java
+### 🗄️ Bases de Datos
 
-<code><img height="20" src="https://img.icons8.com/nolan/96/django.png"></code> Django <code><img height="20" src="https://img.icons8.com/nolan/96/react-native.png"></code> React
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40"/>
+</p>
 
-<code><img height="20" src="https://img.icons8.com/nolan/96/vue-js.png"></code> Vue <code><img height="20" src="https://img.icons8.com/nolan/96/
+### 🧰 Herramientas y Otros
+
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40"/>
+</p>
+
+---
+
+## 💼 Experiencia
+
+📌 **Soporte Técnico – BUPA / Entel (Remoto)**
+🗓️ 2024 – Presente
+
+* Gestión de usuarios en Azure Active Directory
+* Resolución de incidencias técnicas bajo SLA
+* Soporte en entornos corporativos
+
+📌 **Soporte Técnico – Clínica Elqui**
+🗓️ 2023
+
+* Desarrollo y mantenimiento web (frontend/backend)
+* Corrección de bugs y mejora UX
+
+📌 **Practicante – ELECON**
+🗓️ 2023
+
+* Modificación de sistemas en producción
+* Aplicación de buenas prácticas de desarrollo
+
+---
+
+## 📊 Estadísticas
+
+<p align="center">
+  <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=JuanPabloVelozo&theme=tokyonight"/>
+  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=JuanPabloVelozo&show_icons=true&theme=tokyonight"/>
+</p>
+
+<p align="center">
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanPabloVelozo&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+## 🎯 Habilidades
+
+✔️ Resolución de problemas
+✔️ Trabajo en equipo
+✔️ Adaptabilidad
+✔️ Atención a cliente técnico
+✔️ Aprendizaje continuo
+
+---
+
+⭐ Perfil en constante crecimiento
+
 
