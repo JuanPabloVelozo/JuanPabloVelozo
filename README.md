@@ -80,16 +80,5 @@
 </div>
 
 <div align="center">
-  
-## :chart_with_upwards_trend: Current Stats
-</div>
-
-<p align="center">
-<img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=JuanPabloVelozo&theme=gotham"/>
-<img width="45%" src="https://github-readme-stats-ten-gilt.vercel.app/api?username=JuanPabloVelozo&show_icons=true&theme=gotham"/>
-</p>
-
-<p align="center">
-<img width="45%" src="https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=JuanPabloVelozo&theme=gotham"/>
 <img width="45%" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif"/>
-</p>
+
