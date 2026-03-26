@@ -1,120 +1,111 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=6000&pause=1000&color=2AA889&center=true&vCenter=true&width=600&lines=Hola%2C+soy+Juan+Pablo+Velozo+👋;Ingeniero+en+Informática;Desarrollador+Full+Stack;Experiencia+en+soporte+y+entornos+productivos;Siempre+aprendiendo+nuevas+tecnologías" />
+<a href="https://github.com/JuanPabloVelozo">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=6000&pause=1000&color=2AA889&center=true&vCenter=true&width=600&lines=Hola%2C+soy+Juan+Pablo+Velozo+👋;Ingeniero+en+Informática;Full+Stack+Developer;Experiencia+en+soporte+y+producción;Siempre+aprendiendo+nuevas+tecnologías" />
+</a>
 </p>
 
----
+<div align="center">
 
-## 👨‍💻 Sobre mí
+## :mailbox: Connect with Me
 
-💡 Ingeniero en Informática con experiencia en desarrollo web y soporte técnico en entornos productivos.
-🚀 Trabajo con tecnologías frontend y backend, integrando soluciones eficientes y escalables.
-🔧 Experiencia en resolución de incidencias, mantenimiento de sistemas y trabajo bajo metodologías ágiles.
-🌍 Actualmente abierto a oportunidades como desarrollador de software.
+</div>
 
----
-
-## 📬 Contacto
+<br />
 
 <p align="center">
 <a href="https://www.linkedin.com/in/juan-pablo-andrés-velozo-velozo-06546117a/" target="blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
 </a>
 <a href="mailto:jpvelozo219@gmail.com" target="blank">
-  <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" height="30" width="30" />
+<img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" height="30" width="30" />
 </a>
 <a href="https://github.com/JuanPabloVelozo" target="blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" width="40" />
+<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" width="40" />
 </a>
 </p>
 
 ---
 
-## 🛠️ Tecnologías y Herramientas
+<div align="center">
 
-### 💻 Lenguajes
+## :computer: Technologies and Tools that I know
 
-<p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40"/>
-</p>
+<br />
 
-### ⚙️ Frameworks y Librerías
+<a href="https://www.python.org" target="_blank">
+<img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/> 
+</a>
 
-<p>
+<a href="https://www.java.com" target="_blank">
+<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/> 
+</a>
+
+<a href="https://www.javascript.com" target="_blank">
+<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/> 
+</a>
+
+<a href="https://www.php.net" target="_blank">
+<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/> 
+</a>
+
+<br />  
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40"/>
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TailwindCSS-Dark.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40"/>
+
+<br />
+<br />  
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40"/>
-</p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40"/>
 
-### 🗄️ Bases de Datos
+<br />
+<br />  
 
-<p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40"/>
-</p>
 
-### 🧰 Herramientas y Otros
+<br />
+<br />
 
-<p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40"/>
-</p>
+<img src="https://jwt.io/img/icon.svg" height="40"/>
+<img height="40" src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png"/>
 
----
+</div>
 
-## 💼 Experiencia
+###
 
-📌 **Soporte Técnico – BUPA / Entel (Remoto)**
-🗓️ 2024 – Presente
+<br />
 
-* Gestión de usuarios en Azure Active Directory
-* Resolución de incidencias técnicas bajo SLA
-* Soporte en entornos corporativos
+<div align="center">
 
-📌 **Soporte Técnico – Clínica Elqui**
-🗓️ 2023
+## :chart_with_upwards_trend: Current Stats
 
-* Desarrollo y mantenimiento web (frontend/backend)
-* Corrección de bugs y mejora UX
+</div>
 
-📌 **Practicante – ELECON**
-🗓️ 2023
-
-* Modificación de sistemas en producción
-* Aplicación de buenas prácticas de desarrollo
-
----
-
-## 📊 Estadísticas
+<br />
 
 <p align="center">
-  <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=JuanPabloVelozo&theme=tokyonight"/>
-  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=JuanPabloVelozo&show_icons=true&theme=tokyonight"/>
+<img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=JuanPabloVelozo&theme=gotham"/>
+<img width="45%" src="https://github-readme-stats.vercel.app/api?username=JuanPabloVelozo&show_icons=true&theme=gotham"/>
 </p>
 
 <p align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanPabloVelozo&layout=compact&theme=tokyonight"/>
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanPabloVelozo&theme=gotham"/>
+<img width="45%" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif"/>
 </p>
 
 ---
 
-## 🎯 Habilidades
-
-✔️ Resolución de problemas
-✔️ Trabajo en equipo
-✔️ Adaptabilidad
-✔️ Atención a cliente técnico
-✔️ Aprendizaje continuo
-
----
-
-⭐ Perfil en constante crecimiento
+Credit: Adaptado por Juan Pablo Velozo
 
 
