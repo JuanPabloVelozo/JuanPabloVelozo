@@ -24,6 +24,10 @@
 
 ## :computer: Technologies and Tools
 
+<table>
+<tr>
+<td valign="top" width="50%">
+
 ### 🧠 Lenguajes
 <p>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="40"/>
@@ -41,6 +45,10 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40"/>
 </p>
+
+</td>
+
+<td valign="top" width="50%">
 
 ### ⚙️ Backend
 <p>
@@ -65,6 +73,10 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40"/>
 <img src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" height="40"/>
 </p>
+
+</td>
+</tr>
+</table>
 
 </div>
 <div align="center">
