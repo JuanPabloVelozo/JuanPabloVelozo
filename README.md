@@ -1,9 +1,8 @@
 <p align="center">
 <a href="https://github.com/JuanPabloVelozo">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=6000&pause=1000&color=2AA889&center=true&vCenter=true&width=435&lines=Hola+Soy+Juan+Pablo+Velozo👋;Ingeniero+en+Informática;Full+Stack+Developer;Experiencia+en+soporte+y+producción" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=6000&pause=1000&color=2AA889&center=true&vCenter=true&width=500&lines=Hola+Soy+Juan+Pablo+Velozo;Ingeniero+en+Informática;Full+Stack+Developer;Experiencia+en+soporte+y+producción" />
 </a>
 </p>
-
 <div align="center">
   
 ## :mailbox: Connect with Me
