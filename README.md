@@ -1,4 +1,4 @@
-<h2> Hey 👋, I'm Juan Pablo!</h2>
+<h2 title="hehehe"> Hey 👋, I'm Juan Pablo!</h2>
 
 <a href="https://www.linkedin.com/in/juan-pablo-andrés-velozo-velozo-06546117a/">
   <img align="left" alt="Juan Pablo LinkedIn" width="24px" src="https://img.icons8.com/nolan/96/linkedin.png" />
@@ -18,7 +18,7 @@
 **About Me!**
 
 * 💻 I'm a Full Stack Developer from Chile 🇨🇱
-* 🧠 Engineer in Computer Science with experience in real-world applications
+* 🧠 Computer Science Engineer with experience in real-world applications
 * ⚙️ I work with Python, JavaScript and PHP
 * 🔧 Experience in backend & frontend (Django, Laravel, React, Vue)
 * ☁️ Knowledge in Azure and cloud environments
@@ -37,15 +37,11 @@
 
 <code><img height="20" src="https://img.icons8.com/nolan/96/git.png"></code> Git <code><img height="20" src="https://img.icons8.com/nolan/96/docker.png"></code> Docker
 
----
+<img src="https://github-readme-stats.vercel.app/api?username=JuanPabloVelozo&show_icons=true&hide_border=true&count_private=true&theme=shades-of-purple&icon_color=fad000" alt="Juan Pablo GitHub Stats">
 
-<img src="https://github-readme-stats.vercel.app/api?username=JuanPabloVelozo&show_icons=true&hide_border=true&count_private=true&theme=radical" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=JuanPabloVelozo&count_private=true&theme=radical" alt="JuanPabloVelozo" />
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=JuanPabloVelozo&theme=radical" />
-
-<img align="center" width=500 src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanPabloVelozo&theme=radical" />
-
----
+<img align="center" width=500 src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanPabloVelozo&count_private=true&theme=radical" alt="JuanPabloVelozo" />
 
 Last Edited on: 2026
 
