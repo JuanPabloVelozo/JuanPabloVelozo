@@ -1,8 +1,7 @@
-<p align="center">
-<a href="https://github.com/JuanPabloVelozo">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=6000&pause=1000&color=2AA889&center=true&vCenter=true&width=500&lines=Hola+Soy+Juan+Pablo+Velozo;Ingeniero+en+Informática;Full+Stack+Developer;Experiencia+en+soporte+y+producción" />
-</a>
-</p>
+<h1 align="center">Hola, soy Juan Pablo Velozo 👋</h1>
+<h3 align="center">Ingeniero en Informática | Full Stack Developer</h3>
+<p align="center">Experiencia en soporte, producción y desarrollo de software</p>
+
 <div align="center">
   
 ## :mailbox: Connect with Me
@@ -23,7 +22,13 @@
 
 ## :computer: Technologies and Tools
 
-<table align="center">
+<table>
+<tr>
+
+<!-- TABLA PRINCIPAL -->
+<td>
+
+<table>
 
 <tr>
 <td align="center"><b>🧠 Lenguajes</b></td>
@@ -76,8 +81,14 @@
 
 </table>
 
+</td>
+
+<!-- GIF A LA DERECHA -->
+<td align="center" valign="middle">
+<img src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" width="250"/>
+</td>
+
+</tr>
+</table>
+
 </div>
-
-<div align="center">
-<img width="45%" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif"/>
-
